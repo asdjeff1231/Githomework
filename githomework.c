@@ -4,10 +4,10 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(void) {
-	int i; 
-	for(i=1;i<11;i++) //for迴圈做10次 
+	int GitTest; 
+	for(GitTest=1;GitTest<11;GitTest++) 
 	{
-		printf("%d ",i);//每做一次 印出目前值 
+		printf("%d ",GitTest);
 	}
 	
 	
